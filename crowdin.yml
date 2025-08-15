@@ -1,31 +1,77 @@
-# crowdin.yml
-commit_message: "chore(i18n): update %original_file_name% (%language%) [skip ci]"
-append_commit_message: false
-
 files:
   - source: /en_us.json
     translation: "/%locale_with_underscore%.json"
-    # !!! WICHTIG: KEIN 'multilingual' hier !!!
-    # Export-Optionen – wähle, was zu deinem Workflow passt:
-    # Falls du ALLE Sprachdateien im Repo haben willst, auch ohne Übersetzungen:
-    skip_untranslated_files: false
-    # Wenn du nur freigegebene Übersetzungen exportieren willst:
-    export_only_approved: false
 
-    # Minecraft-Locale-Mapping (Beispiele – erweitern, je nach Zielsprachen)
+    # Weniger unnötige Commits:
+    skip_untranslated_files: true      # Nur Sprachen mit Inhalt werden erzeugt
+    skip_untranslated_strings: true    # In den Dateien nur übersetzte Keys
+    export_only_approved: false        # Auf Wunsch auf true setzen, wenn nur freigegebene Strings raus sollen
+
+    # Crowdin → Minecraft (lowercase + underscore + korrekter Regionsteil)
     languages_mapping:
       locale_with_underscore:
+        af: af_za
+        ar: ar_sa
+        ast: ast_es
+        az: az_az
+        be: be_by
+        bg: bg_bg
+        br: br_fr
+        bs: bs_ba
+        ca: ca_es
+        cs: cs_cz
+        cy: cy_gb
+        da: da_dk
         de: de_de
-        fr: fr_fr
+        el: el_gr
+        en-GB: en_gb
+        en-AU: en_au
+        en-CA: en_ca
+        en-NZ: en_nz
+        # Falls du Englisch als Ziel aktivierst:
+        en-US: en_us
+
         es-ES: es_es
-        ro: ro_ro
-        ru: ru_ru
+        es-MX: es_mx
+        es-419: es_mx     # LatAm → MC nutzt es_mx
+
+        et: et_ee
+        eu: eu_es
+        fa: fa_ir
+        fi: fi_fi
+        fr: fr_fr
+        fr-CA: fr_ca
+        ga: ga_ie
+        gd: gd_gb
+        gl: gl_es
+        he: he_il
+        hi: hi_in
+        hr: hr_hr
+        hu: hu_hu
+        id: id_id
+        is: is_is
         it: it_it
+        ja: ja_jp
+        ka: ka_ge
+        kk: kk_kz
+        ko: ko_kr
+        lt: lt_lt
+        lv: lv_lv
+        mk: mk_mk
+        ms: ms_my
+        nb: nb_no
         nl: nl_nl
         pl: pl_pl
-        cs: cs_cz
-        ja: ja_jp
-        ko: ko_kr
+        pt-BR: pt_br
+        pt-PT: pt_pt
+        ro: ro_ro
+        ru: ru_ru
+        sk: sk_sk
+        sl: sl_si
+        sv-SE: sv_se
+        th: th_th
+        tr: tr_tr
+        uk: uk_ua
+        vi: vi_vn
         zh-CN: zh_cn
         zh-TW: zh_tw
-        pt-BR: pt_br
