@@ -1,13 +1,6 @@
 files:
   - source: /en_us.json
-    translation: "/%locale_with_underscore%.json"
-
-    # Weniger unnötige Commits:
-    skip_untranslated_files: true      # Nur Sprachen mit Inhalt werden erzeugt
-    skip_untranslated_strings: true    # In den Dateien nur übersetzte Keys
-    export_only_approved: false        # Auf Wunsch auf true setzen, wenn nur freigegebene Strings raus sollen
-
-    # Crowdin → Minecraft (lowercase + underscore + korrekter Regionsteil)
+    translation: /%locale_with_underscore%.json
     languages_mapping:
       locale_with_underscore:
         af: af_za
@@ -28,13 +21,10 @@ files:
         en-AU: en_au
         en-CA: en_ca
         en-NZ: en_nz
-        # Falls du Englisch als Ziel aktivierst:
         en-US: en_us
-
         es-ES: es_es
         es-MX: es_mx
-        es-419: es_mx     # LatAm → MC nutzt es_mx
-
+        es-419: es_mx
         et: et_ee
         eu: eu_es
         fa: fa_ir
@@ -75,3 +65,5 @@ files:
         vi: vi_vn
         zh-CN: zh_cn
         zh-TW: zh_tw
+bundles:
+  - 2
