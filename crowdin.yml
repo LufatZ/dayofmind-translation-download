@@ -1,4 +1,31 @@
+# crowdin.yml
+commit_message: "chore(i18n): update %original_file_name% (%language%) [skip ci]"
+append_commit_message: false
+
 files:
   - source: /en_us.json
-    translation: /%locale_with_underscore%.json
-    multilingual: 1
+    translation: "/%locale_with_underscore%.json"
+    # !!! WICHTIG: KEIN 'multilingual' hier !!!
+    # Export-Optionen – wähle, was zu deinem Workflow passt:
+    # Falls du ALLE Sprachdateien im Repo haben willst, auch ohne Übersetzungen:
+    skip_untranslated_files: false
+    # Wenn du nur freigegebene Übersetzungen exportieren willst:
+    export_only_approved: false
+
+    # Minecraft-Locale-Mapping (Beispiele – erweitern, je nach Zielsprachen)
+    languages_mapping:
+      locale_with_underscore:
+        de: de_de
+        fr: fr_fr
+        es-ES: es_es
+        ro: ro_ro
+        ru: ru_ru
+        it: it_it
+        nl: nl_nl
+        pl: pl_pl
+        cs: cs_cz
+        ja: ja_jp
+        ko: ko_kr
+        zh-CN: zh_cn
+        zh-TW: zh_tw
+        pt-BR: pt_br
