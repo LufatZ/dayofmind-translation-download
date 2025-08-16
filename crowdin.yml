@@ -1,5 +1,2 @@
-files:
-  - source: /en_us.json
-    translation: /%locale_with_underscore%.json
 bundles:
   - 2
