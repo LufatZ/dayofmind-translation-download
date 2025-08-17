@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Activează descărcarea automată a traducerilor",
     "additions.midnightconfig.EnabledTrapdoor": "Activează trape",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Activează abilitatea de a crea mai multe trape",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Sursa traducerii",
     "additions.midnightconfig.TranslationUrl.tooltip": "Selectează sursa traducerilor",
     "additions.midnightconfig.TranslationUrlCustom": "Sursă de traducere personalizată",
