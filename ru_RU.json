@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Включает автоматическую загрузку переводов",
     "additions.midnightconfig.EnabledTrapdoor": "Включить люки",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Включает возможность создавать больше люков",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Источник переводов",
     "additions.midnightconfig.TranslationUrl.tooltip": "Выберите источник переводов",
     "additions.midnightconfig.TranslationUrlCustom": "Пользовательский источник переводов",
