@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "啟用自動下載翻譯",
     "additions.midnightconfig.EnabledTrapdoor": "啟用活板門",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "啟用製作更多活板門的能力",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "翻譯來源",
     "additions.midnightconfig.TranslationUrl.tooltip": "選擇翻譯來源",
     "additions.midnightconfig.TranslationUrlCustom": "自訂翻譯來源",
