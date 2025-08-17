@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "يُمكّن التنزيل التلقائي للترجمات",
     "additions.midnightconfig.EnabledTrapdoor": "تفعيل الأبواب القلابة",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "يُمكّن القدرة على صنع المزيد من الأبواب القلابة",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "مصدر الترجمة",
     "additions.midnightconfig.TranslationUrl.tooltip": "حدد مصدر الترجمات",
     "additions.midnightconfig.TranslationUrlCustom": "مصدر ترجمة مخصص",
