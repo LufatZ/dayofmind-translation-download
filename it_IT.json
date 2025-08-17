@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Abilita il download automatico delle traduzioni",
     "additions.midnightconfig.EnabledTrapdoor": "Abilita botole",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Abilita la possibilità di creare più botole",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Fonte della traduzione",
     "additions.midnightconfig.TranslationUrl.tooltip": "Seleziona la fonte delle traduzioni",
     "additions.midnightconfig.TranslationUrlCustom": "Fonte della traduzione personalizzata",
