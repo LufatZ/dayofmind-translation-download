@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "启用自动下载翻译",
     "additions.midnightconfig.EnabledTrapdoor": "启用活板门",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "启用合成更多活板门的能力",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "翻译源",
     "additions.midnightconfig.TranslationUrl.tooltip": "选择翻译的来源",
     "additions.midnightconfig.TranslationUrlCustom": "自定义翻译源",
