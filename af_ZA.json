@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Aktiveer die outomatiese aflaai van vertalings",
     "additions.midnightconfig.EnabledTrapdoor": "Aktiveer Valdeure",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Aktiveer die vermoë om meer valdeure te maak",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Vertaalbron",
     "additions.midnightconfig.TranslationUrl.tooltip": "Kies die bron van die vertalings",
     "additions.midnightconfig.TranslationUrlCustom": "Gepasmaakte Vertaalbron",
