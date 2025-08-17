@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "מאפשר הורדה אוטומטית של תרגומים",
     "additions.midnightconfig.EnabledTrapdoor": "הפעל דלתות סתרים",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "מאפשר את היכולת ליצור עוד דלתות סתרים",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "מקור תרגום",
     "additions.midnightconfig.TranslationUrl.tooltip": "בחר את מקור התרגומים",
     "additions.midnightconfig.TranslationUrlCustom": "מקור תרגום מותאם אישית",
