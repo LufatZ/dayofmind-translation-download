@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Povolí automatické stahování překladů",
     "additions.midnightconfig.EnabledTrapdoor": "Povolit padací dveře",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Umožňuje vyrábět více padacích dveří",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Zdroj překladu",
     "additions.midnightconfig.TranslationUrl.tooltip": "Vyberte zdroj překladů",
     "additions.midnightconfig.TranslationUrlCustom": "Vlastní zdroj překladu",
