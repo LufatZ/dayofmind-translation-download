@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Ottaa käyttöön käännösten automaattisen lataamisen",
     "additions.midnightconfig.EnabledTrapdoor": "Ota ansaluukut käyttöön",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Mahdollistaa useampien ansaluukkujen valmistamisen",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Käännöksen lähde",
     "additions.midnightconfig.TranslationUrl.tooltip": "Valitse käännösten lähde",
     "additions.midnightconfig.TranslationUrlCustom": "Mukautettu käännöslähde",
