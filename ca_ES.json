@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Activa la descàrrega automàtica de traduccions",
     "additions.midnightconfig.EnabledTrapdoor": "Activa les trampilles",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Activa la capacitat de crear més trampilles",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Font de la traducció",
     "additions.midnightconfig.TranslationUrl.tooltip": "Selecciona la font de les traduccions",
     "additions.midnightconfig.TranslationUrlCustom": "Font de traducció personalitzada",
