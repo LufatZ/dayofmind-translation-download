@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Engedélyezi a fordítások automatikus letöltését.",
     "additions.midnightconfig.EnabledTrapdoor": "Csapóajtók engedélyezése",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Engedélyezi további csapóajtók készítését.",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Fordítási forrás",
     "additions.midnightconfig.TranslationUrl.tooltip": "Válaszd ki a fordítások forrását.",
     "additions.midnightconfig.TranslationUrlCustom": "Egyéni fordítási forrás",
