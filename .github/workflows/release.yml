@@ -5,6 +5,10 @@ on:
     branches: [ l10n_main2 ]  # Trigger bei Push auf main branch
   workflow_dispatch:  # Manueller Trigger
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   release:
     runs-on: ubuntu-latest
