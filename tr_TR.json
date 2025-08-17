@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Çevirilerin otomatik olarak indirilmesini sağlar",
     "additions.midnightconfig.EnabledTrapdoor": "Tuzak Kapılarını Etkinleştir",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Daha fazla tuzak kapısı üretme yeteneğini etkinleştirir",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Çeviri Kaynağı",
     "additions.midnightconfig.TranslationUrl.tooltip": "Çevirilerin kaynağını seçin",
     "additions.midnightconfig.TranslationUrlCustom": "Özel Çeviri Kaynağı",
