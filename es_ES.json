@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Habilita la descarga automática de traducciones",
     "additions.midnightconfig.EnabledTrapdoor": "Habilitar trampillas",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Habilita la capacidad de craftear más trampillas",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Fuente de traducción",
     "additions.midnightconfig.TranslationUrl.tooltip": "Selecciona la fuente de las traducciones",
     "additions.midnightconfig.TranslationUrlCustom": "Fuente de traducción personalizada",
