@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Aktiverer automatisk download af oversættelser",
     "additions.midnightconfig.EnabledTrapdoor": "Aktiver Faldlemme",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Giver mulighed for at fremstille flere faldlemme",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Oversættelseskilde",
     "additions.midnightconfig.TranslationUrl.tooltip": "Vælg kilden til oversættelserne",
     "additions.midnightconfig.TranslationUrlCustom": "Brugerdefineret Oversættelseskilde",
