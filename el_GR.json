@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Ενεργοποιεί την αυτόματη λήψη μεταφράσεων",
     "additions.midnightconfig.EnabledTrapdoor": "Ενεργοποίηση καταπακτών",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Ενεργοποιεί τη δυνατότητα κατασκευής περισσότερων καταπακτών",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Πηγή μετάφρασης",
     "additions.midnightconfig.TranslationUrl.tooltip": "Επιλέξτε την πηγή των μεταφράσεων",
     "additions.midnightconfig.TranslationUrlCustom": "Προσαρμοσμένη πηγή μετάφρασης",
