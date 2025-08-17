@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Омогућава аутоматско преузимање превода",
     "additions.midnightconfig.EnabledTrapdoor": "Омогући поклопце",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Омогућава могућност прављења више поклопаца",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Извор превода",
     "additions.midnightconfig.TranslationUrl.tooltip": "Изаберите извор превода",
     "additions.midnightconfig.TranslationUrlCustom": "Прилагођени извор превода",
