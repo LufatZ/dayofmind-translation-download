@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Bật tự động tải xuống các bản dịch",
     "additions.midnightconfig.EnabledTrapdoor": "Bật cửa sập",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Cho phép chế tạo nhiều cửa sập hơn",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Nguồn dịch",
     "additions.midnightconfig.TranslationUrl.tooltip": "Chọn nguồn của các bản dịch",
     "additions.midnightconfig.TranslationUrlCustom": "Nguồn dịch tùy chỉnh",
