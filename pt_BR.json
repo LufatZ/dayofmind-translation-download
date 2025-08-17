@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Ativa o download automático de traduções",
     "additions.midnightconfig.EnabledTrapdoor": "Ativar Alçapões",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Ativa a habilidade de criar mais alçapões",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "Fonte da Tradução",
     "additions.midnightconfig.TranslationUrl.tooltip": "Selecione a fonte das traduções",
     "additions.midnightconfig.TranslationUrlCustom": "Fonte da Tradução Personalizada",
