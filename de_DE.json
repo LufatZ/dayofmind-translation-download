@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "Aktiviert das automatische Herunterladen von Übersetzungen",
     "additions.midnightconfig.EnabledTrapdoor": "Aktiviere Falltüren",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "Ermöglicht mehr Falltüren herzustellen",
+    "additions.midnightconfig.TranslationCounter": "Starts bis Übersetzungsdownload",
+    "additions.midnightconfig.TranslationCounter.tooltip": "Geben Sie die Anzahl der Minecraft-Starts ein, bei denen Sie Übersetzungsupdates pausieren möchten.",
     "additions.midnightconfig.TranslationUrl": "Übersetzungsquelle",
     "additions.midnightconfig.TranslationUrl.tooltip": "Quelle der Übersetzung auswählen",
     "additions.midnightconfig.TranslationUrlCustom": "Eigene Übersetzungsquelle",
