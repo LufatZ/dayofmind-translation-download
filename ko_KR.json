@@ -16,6 +16,8 @@
     "additions.midnightconfig.EnabledTranslation.tooltip": "번역 자동 다운로드를 활성화합니다.",
     "additions.midnightconfig.EnabledTrapdoor": "다락문 활성화",
     "additions.midnightconfig.EnabledTrapdoor.tooltip": "더 많은 다락문을 제작할 수 있습니다.",
+    "additions.midnightconfig.TranslationCounter": "Starts for translation download",
+    "additions.midnightconfig.TranslationCounter.tooltip": "enter the number of game starts at which you'd like to pause translation updates.",
     "additions.midnightconfig.TranslationUrl": "번역 출처",
     "additions.midnightconfig.TranslationUrl.tooltip": "번역 출처를 선택하세요.",
     "additions.midnightconfig.TranslationUrlCustom": "사용자 지정 번역 출처",
