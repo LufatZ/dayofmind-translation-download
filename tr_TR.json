@@ -269,7 +269,7 @@
     "modmenu.additions.oxfatech": "OxFaTech Web Sitesi",
     "tag.item.additions.stones": "Taşlar",
     "tag.item.additions.stones.tooltip": "Tüm taş varyantları",
-    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while in your hotbar.",
+    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while held in your off hand.",
     "tooltip.additions.radius_mine.axe_description": "Strips logs in a %s area.",
     "tooltip.additions.radius_mine.hammer_description": "Taş benzeri bloklardan oluşan %s'lik bir alanı kazar.",
     "tooltip.additions.radius_mine.path_creation_description": "Bir yol oluşturmak için kullanın.",
