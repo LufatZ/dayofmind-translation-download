@@ -269,7 +269,7 @@
     "modmenu.additions.oxfatech": "Ιστοσελίδα OxFaTech",
     "tag.item.additions.stones": "Πέτρες",
     "tag.item.additions.stones.tooltip": "Όλες οι παραλλαγές πέτρας",
-    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while in your hotbar.",
+    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while held in your off hand.",
     "tooltip.additions.radius_mine.axe_description": "Strips logs in a %s area.",
     "tooltip.additions.radius_mine.hammer_description": "Εξορύσσει μια περιοχή %s από πετρώδη μπλοκ.",
     "tooltip.additions.radius_mine.path_creation_description": "Χρησιμοποιήστε το για να δημιουργήσετε ένα μονοπάτι.",
