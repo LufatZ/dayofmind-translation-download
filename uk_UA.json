@@ -269,7 +269,7 @@
     "modmenu.additions.oxfatech": "Веб-сайт OxFaTech",
     "tag.item.additions.stones": "Камені",
     "tag.item.additions.stones.tooltip": "Усі варіанти каменю",
-    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while in your hotbar.",
+    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while held in your off hand.",
     "tooltip.additions.radius_mine.axe_description": "Strips logs in a %s area.",
     "tooltip.additions.radius_mine.hammer_description": "Видобуває область %s кам'яноподібних блоків.",
     "tooltip.additions.radius_mine.path_creation_description": "Використовуйте для створення стежки.",
