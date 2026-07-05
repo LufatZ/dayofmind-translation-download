@@ -269,7 +269,7 @@
     "modmenu.additions.oxfatech": "OxFaTech 웹사이트",
     "tag.item.additions.stones": "돌",
     "tag.item.additions.stones.tooltip": "모든 돌 변형",
-    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while in your hotbar.",
+    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while held in your off hand.",
     "tooltip.additions.radius_mine.axe_description": "Strips logs in a %s area.",
     "tooltip.additions.radius_mine.hammer_description": "%s 범위의 돌 같은 블록을 캡니다.",
     "tooltip.additions.radius_mine.path_creation_description": "길을 만드는 데 사용합니다.",
