@@ -269,7 +269,7 @@
     "modmenu.additions.oxfatech": "Sito web OxFaTech",
     "tag.item.additions.stones": "Pietre",
     "tag.item.additions.stones.tooltip": "Tutte le varianti di pietra",
-    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while in your hotbar.",
+    "tooltip.additions.lodestar_charm.description": "Draws nearby dropped items to you while held in your off hand.",
     "tooltip.additions.radius_mine.axe_description": "Strips logs in a %s area.",
     "tooltip.additions.radius_mine.hammer_description": "Scava un'area di %s di blocchi simili a pietra.",
     "tooltip.additions.radius_mine.path_creation_description": "Usa per creare un sentiero.",
